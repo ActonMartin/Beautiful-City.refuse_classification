@@ -1,0 +1,15 @@
+# 忽略的文件
+*.jpg
+*.csv
+*.ipynb
+*.tar
+test.py
+inference.py
+refuse_classification.zip
+
+# 忽略的文件夹
+.ipynb_checkpoints
+.idea
+__pycache__
+.vscode
+/runs
