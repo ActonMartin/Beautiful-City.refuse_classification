@@ -1,5 +1,4 @@
 # 忽略的文件
-*.jpg
 *.csv
 *.ipynb
 *.tar
@@ -13,3 +12,4 @@ refuse_classification.zip
 __pycache__
 .vscode
 /runs
+/raw_data
